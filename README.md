@@ -1,5 +1,5 @@
 # GM2003
-This is a REMARK of Gomes and Michaelides (2003), Portfolio choice with internal habit formation:
+This is a REMARK of [Gomes and Michaelides (2003)](https://www.sciencedirect.com/science/article/abs/pii/S1094202503000590), Portfolio choice with internal habit formation:
 a life-cycle model with uninsurable labor
 income risk. This file is modified based on CGMPortfolio.ipynb by Mateo Velásquez-Giraldo and Matthew Zahn that intended to replicate main results in Cocco et al. (2005).
 The file makes some comparison and contrast to the main results of two papers.
